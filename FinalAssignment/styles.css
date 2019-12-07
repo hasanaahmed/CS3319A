@@ -1,0 +1,23 @@
+/*
+  OHIP Styles
+*/
+
+body {
+    font-family: 'Avenir', regular;
+    font-size: 18px;
+    background-color: #e3e3e3;
+    color: black;
+}
+h1 {
+    font-size: 40px;
+}
+select {
+    font-family: 'Roboto', cursive;
+    background-color: white;
+}
+table, th, td {
+    vertical-align: top;
+}
+img {
+    vertical-align: top;
+}
